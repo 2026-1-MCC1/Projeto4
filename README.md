@@ -15,8 +15,7 @@ Vide tutoriais do PI.
 ## Nome do Grupo
 
 ## Integrantes: <a href="https://github.com/Anorhc">Gustavo Cordeiro</a>, <a href="https://github.com/lupitaMendoza">Cintya Mendoza</a>, <a href="https://github.com/Rafael1285">Rafael Della</a>,
- <a href="https://github.com/noguchi2512">Felipe Noguchi</a>, <a href="https://www.linkedin.com/in/victorbarq/">Roronoa Zoro</a>
-
+ <a href="https://github.com/noguchi2512">Felipe Noguchi</a>
 ## Professores Orientadores: <a href="https://www.linkedin.com/in/victorbarq/">Dr. Victor Von Doom</a>, <a href="https://www.linkedin.com/in/victorbarq/">Me. Saitama</a>, <a href="https://www.linkedin.com/in/victorbarq/">Dr. Strange</a>, <a href="https://www.linkedin.com/in/victorbarq/">Me. Yoda</a>, <a href="https://www.linkedin.com/in/victorbarq/">Dr. Gero</a>
 
 ## Descrição
