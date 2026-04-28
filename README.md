@@ -39,7 +39,7 @@ O jogo funciona por meio de ciclos de dias, em que o jogador deve gerenciar recu
  |-->Frontend
 |readme.md
 
-https://github.com/2026-1-MCC1/Projeto1#%EF%B8%8F-instala%C3%A7%C3%A3o
+<a href="https://github.com/2026-1-MCC1/Projeto1#%EF%B8%8F-instala%C3%A7%C3%A3o"> ⚙️ Instalação
 
 ⚙️ Instalação
 💻 Windows
