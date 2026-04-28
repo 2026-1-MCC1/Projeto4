@@ -15,7 +15,7 @@ Vide tutoriais do PI.
 ## 👥👥 Nome do Grupo: Crescentia 
 
 ## 🧑‍🎓 Integrantes: <a href="https://github.com/Anorhc">Gustavo Cordeiro</a>, <a href="https://github.com/lupitaMendoza">Cintya Mendoza</a>, <a href="https://github.com/Rafael1285">Rafael Della</a>, <a href="https://github.com/noguchi2512">Felipe Noguchi</a>
-## Professores Orientadores: <a href="https://www.linkedin.com/in/adriano-valente-534576135/">Adriano Felix Valente, <a href="https://www.linkedin.com/in/dolemes/">David de Oliveira Lemes, <a href="https://www.linkedin.com/in/eduardo-savino-gomes-77833a10/">Eduardo Savino Gomes, <a href="https://www.linkedin.com/in/remuniz/">Renata Muniz do Nascimento, <a href="https://www.linkedin.com/in/victorbarq/">Victor Bruno Alexander Rosetti de Quiroz
+## 👨🏻‍🏫 Professores Orientadores: <a href="https://www.linkedin.com/in/adriano-valente-534576135/">Adriano Felix Valente, <a href="https://www.linkedin.com/in/dolemes/">David de Oliveira Lemes, <a href="https://www.linkedin.com/in/eduardo-savino-gomes-77833a10/">Eduardo Savino Gomes, <a href="https://www.linkedin.com/in/remuniz/">Renata Muniz do Nascimento, <a href="https://www.linkedin.com/in/victorbarq/">Victor Bruno Alexander Rosetti de Quiroz
 
 ## 🍀 Descrição
 
