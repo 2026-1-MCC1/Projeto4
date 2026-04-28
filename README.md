@@ -10,9 +10,9 @@ Vide tutoriais do PI.
 <a href= "https://www.fecap.br/"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhZPrRa89Kma0ZZogxm0pi-tCn_TLKeHGVxywp-LXAFGR3B1DPouAJYHgKZGV0XTEf4AE&usqp=CAU" alt="FECAP - Fundação de Comércio Álvares Penteado" border="0"></a>
 </p>
 
-# Nome do Projeto
+# Nome do Projeto: Crescentia
 
-## Nome do Grupo
+## Nome do Grupo: Crescentia 
 
 ## Integrantes: <a href="https://github.com/Anorhc">Gustavo Cordeiro</a>, <a href="https://github.com/lupitaMendoza">Cintya Mendoza</a>, <a href="https://github.com/Rafael1285">Rafael Della</a>,
  <a href="https://github.com/noguchi2512">Felipe Noguchi</a>
