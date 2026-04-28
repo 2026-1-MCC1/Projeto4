@@ -10,11 +10,11 @@ Vide tutoriais do PI.
 <a href= "https://www.fecap.br/"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhZPrRa89Kma0ZZogxm0pi-tCn_TLKeHGVxywp-LXAFGR3B1DPouAJYHgKZGV0XTEf4AE&usqp=CAU" alt="FECAP - Fundação de Comércio Álvares Penteado" border="0"></a>
 </p>
 
-# Nome do Projeto: Crescentia
+# 🪴 Nome do Projeto: Crescentia
 
-## Nome do Grupo: Crescentia 
+## 👥👥 Nome do Grupo: Crescentia 
 
-## Integrantes: <a href="https://github.com/Anorhc">Gustavo Cordeiro</a>, <a href="https://github.com/lupitaMendoza">Cintya Mendoza</a>, <a href="https://github.com/Rafael1285">Rafael Della</a>, <a href="https://github.com/noguchi2512">Felipe Noguchi</a>
+## 🧑‍🎓 Integrantes: <a href="https://github.com/Anorhc">Gustavo Cordeiro</a>, <a href="https://github.com/lupitaMendoza">Cintya Mendoza</a>, <a href="https://github.com/Rafael1285">Rafael Della</a>, <a href="https://github.com/noguchi2512">Felipe Noguchi</a>
 ## Professores Orientadores: <a href="https://www.linkedin.com/in/adriano-valente-534576135/">Adriano Felix Valente, <a href="https://www.linkedin.com/in/dolemes/">David de Oliveira Lemes, <a href="https://www.linkedin.com/in/eduardo-savino-gomes-77833a10/">Eduardo Savino Gomes, <a href="https://www.linkedin.com/in/remuniz/">Renata Muniz do Nascimento, <a href="https://www.linkedin.com/in/victorbarq/">Victor Bruno Alexander Rosetti de Quiroz
 
 ## 🍀 Descrição
@@ -22,6 +22,37 @@ Vide tutoriais do PI.
   Nosso projeto é um jogo narrativo de escolhas ambientado em um futuro distópico, onde a Terra está à beira do colapso e os últimos humanos vivem em túneis subterrâneos. A história acompanha uma criança que encontra uma pequena mudinha verde crescendo em meio à escassez, despertando nela o desejo de cuidar e preservar aquela forma de vida. A partir desse encontro, o jogo constrói uma experiência emocional baseada na relação entre sobrevivência humana e preservação da natureza, colocando o jogador diante de decisões simples, porém carregadas de significado.
 
 O jogo funciona por meio de ciclos de dias, em que o jogador deve gerenciar recursos limitados, como água e alimentos, e decidir como utilizá-los entre a própria sobrevivência e o crescimento da planta. Cada escolha impacta diretamente o desenvolvimento da narrativa e conduz a diferentes desfechos, reforçando a ideia de que não existem decisões perfeitas, apenas consequências. Com mecânicas simples e uma progressão clara, o projeto busca provocar reflexão sobre sustentabilidade, responsabilidade e o peso das escolhas cotidianas."
+
+🛠 Estrutura de Massas
+-Raiz
+|
+|-->documentos
+ |-->antigos
+ |Documentação.docx
+|-->executáveis
+ ​​|-->windows
+ |-->android
+ |-->HTML
+|-->imagens
+|-->src
+ |-->Backend
+ |-->Frontend
+|readme.md
+
+⚙️ Instalação
+💻 Windows
+Acesse a pasta abaixoveis/windows
+Execute o arquivo .exe
+💻 Configuração para Desenvolvimento
+Ferramentas:
+
+Unidade
+Passos:
+
+Instale o Unity
+Abra o projeto
+Executar um cena principal
+
 
 
 ## 📋 Licença/License
