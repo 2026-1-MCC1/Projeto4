@@ -26,13 +26,32 @@ O jogo funciona por meio de ciclos de dias, em que o jogador deve gerenciar recu
 ## 🛠 Estrutura de Massas
 -Raiz
 
-|
-
 |-->documentos
 
- |-->antigos
+ |-->Entrega 0
+   
+    |-Algoritmos e Lógica da Programação
+    
+    |-Cálculo 1
+    
+    |-Jogos Digitais e Sistemas Digitais Interativos
+    
+    |-Projeto Interdisciplinar
+    
+    |-Ética e Pensamento Computacional
+
+   |-->Entrega 2
+   
+   |-Algoritmos e Lógica da Programação
+   
+   |-Cálculo 1
+   
+   |-Jogos Digitais e Sistemas Digitais Interativos
+   
+   |-Projeto Interdisciplinar
+   
+   |-Ética e Pensamento Computacional
  
- |Documentação.docx
  
 |-->executáveis
 
