@@ -26,7 +26,7 @@ O jogo funciona por meio de ciclos de dias, em que o jogador deve gerenciar recu
 
 
 ## 📋 Licença/License
-Utilize o link <https://chooser-beta.creativecommons.org/> para fazer uma licença CC BY 4.0.
+<a href="https://github.com/2026-1-MCC1/Projeto4"><font dir="auto" style="vertical-align: inherit;"><font dir="auto" style="vertical-align: inherit;">Crescentia</font></font></a><font dir="auto" style="vertical-align: inherit;"><font dir="auto" style="vertical-align: inherit;"> © 2026 por </font></font><a href="https://github.com/Rafael1285  ,    https://github.com/lupitaMendoza  ,   https://github.com/CordeiroGustavo404  ,  https://github.com/noguchi2512 "><font dir="auto" style="vertical-align: inherit;"><font dir="auto" style="vertical-align: inherit;">Rafael Della, Gustavo Cordeiro, Felipe Noguchi, Cintya Mendoza</font></font></a><font dir="auto" style="vertical-align: inherit;"><font dir="auto" style="vertical-align: inherit;"> está licenciada sob </font></font><a href="https://creativecommons.org/licenses/by/4.0/"><font dir="auto" style="vertical-align: inherit;"><font dir="auto" style="vertical-align: inherit;">Creative Commons Atribuição 4.0 Internacional</font></font></a><img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/by.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;">
 
 ## 🎓 Referências
 
