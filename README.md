@@ -23,37 +23,70 @@ Vide tutoriais do PI.
 
 O jogo funciona por meio de ciclos de dias, em que o jogador deve gerenciar recursos limitados, como água e alimentos, e decidir como utilizá-los entre a própria sobrevivência e o crescimento da planta. Cada escolha impacta diretamente o desenvolvimento da narrativa e conduz a diferentes desfechos, reforçando a ideia de que não existem decisões perfeitas, apenas consequências. Com mecânicas simples e uma progressão clara, o projeto busca provocar reflexão sobre sustentabilidade, responsabilidade e o peso das escolhas cotidianas."
 
-🛠 Estrutura de Massas
+## 🛠 Estrutura de Massas
 -Raiz
+
 |
+
 |-->documentos
+
  |-->antigos
+ 
  |Documentação.docx
+ 
 |-->executáveis
+
  ​​|-->windows
+ 
  |-->android
+ 
  |-->HTML
+ 
 |-->imagens
+
 |-->src
+
  |-->Backend
+ 
  |-->Frontend
+ 
 |readme.md
 
-<a href="https://github.com/2026-1-MCC1/Projeto1#%EF%B8%8F-instala%C3%A7%C3%A3o"> ⚙️ Instalação
+A pasta raiz contém dois arquivos que devem ser alterados:
 
-⚙️ Instalação
-💻 Windows
-Acesse a pasta abaixoveis/windows
-Execute o arquivo .exe
-💻 Configuração para Desenvolvimento
-Ferramentas:
+README.MD : Arquivo que serve como guia e explicação geral sobre seu projeto. O mesmo que você está lendo agora.
 
-Unidade
-Passos:
+Há também 4 pastas que seguem da seguinte forma:
 
-Instale o Unity
-Abra o projeto
-Executar um cena principal
+documentos : Toda a documentação estará nesta pasta.
+
+possíveis : Binários e questionáveis ​​do projeto devem estar nesta pasta.
+
+imagens : Imagens do sistema
+
+src : Pasta que contém o código fonte.
+
+## 🛠  Instalação
+Windows:
+
+Não há instalação! Apenas possível! Encontre WYLYR.exe na pasta apresentada e execute-o como qualquer outro programa.
+
+Coloque código do prompt de comnando se for necessário
+
+## 💻 Configuração para Desenvolvimento
+
+Descreva como instalar todas as dependências para desenvolvimento e como rodar uma suíte de testes automatizada de algum tipo. Se necessário, faça isso para múltiplas plataformas.
+
+Para abrir este projeto você precisa das seguintes ferramentas:
+
+<a href="https://godotengine.org/download">Godot
+
+
+make install
+
+npm test
+
+Coloque código do prompt de comnando se for necessário
 
 
 
