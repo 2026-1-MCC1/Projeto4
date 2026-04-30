@@ -21,7 +21,7 @@ Vide tutoriais do PI.
 
   Nosso projeto é um jogo narrativo de escolhas ambientado em um futuro distópico, onde a Terra está à beira do colapso e os últimos humanos vivem em túneis subterrâneos. A história acompanha uma criança que encontra uma pequena mudinha verde crescendo em meio à escassez, despertando nela o desejo de cuidar e preservar aquela forma de vida. A partir desse encontro, o jogo constrói uma experiência emocional baseada na relação entre sobrevivência humana e preservação da natureza, colocando o jogador diante de decisões simples, porém carregadas de significado.
 
-O jogo funciona por meio de ciclos de dias, em que o jogador deve gerenciar recursos limitados, como água e alimentos, e decidir como utilizá-los entre a própria sobrevivência e o crescimento da planta. Cada escolha impacta diretamente o desenvolvimento da narrativa e conduz a diferentes desfechos, reforçando a ideia de que não existem decisões perfeitas, apenas consequências. Com mecânicas simples e uma progressão clara, o projeto busca provocar reflexão sobre sustentabilidade, responsabilidade e o peso das escolhas cotidianas."
+O jogo funciona por meio de ciclos de dias, em que o jogador deve gerenciar recursos limitados, como água e alimentos, e decidir como utilizá-los entre a própria sobrevivência e o crescimento da planta. Cada escolha impacta diretamente o desenvolvimento da narrativa e conduz a diferentes desfechos, reforçando a ideia de que não existem decisões perfeitas, apenas consequências. Com mecânicas simples e uma progressão clara, o projeto busca provocar reflexão sobre sustentabilidade, responsabilidade e o peso das escolhas cotidianas.
 
 ## 🛠 Estrutura de Massas
 -Raiz
