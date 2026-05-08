@@ -11,7 +11,7 @@
 ## 👥👥 Nome do Grupo: Crescentia 
 
 ## 🧑‍🎓 Integrantes: <a href="https://github.com/Anorhc">Gustavo Cordeiro</a>, <a href="https://github.com/lupitaMendoza">Cintya Mendoza</a>, <a href="https://github.com/Rafael1285">Rafael Della</a>, <a href="https://github.com/noguchi2512">Felipe Noguchi</a>
-## 👨🏻‍🏫 Professores Orientadores: <a href="https://www.linkedin.com/in/adriano-valente-534576135/">Adriano Felix Valente, <a href="https://www.linkedin.com/in/dolemes/">David de Oliveira Lemes, <a href="https://www.linkedin.com/in/eduardo-savino-gomes-77833a10/">Eduardo Savino Gomes, <a href="https://www.linkedin.com/in/remuniz/">Renata Muniz do Nascimento, <a href="https://www.linkedin.com/in/victorbarq/">Victor Bruno Alexander Rosetti de Quiroz
+## 👨🏻‍🏫 Professores Orientadores: <a href="https://www.linkedin.com/in/adriano-valente-534576135/">Adriano Felix Valente, <a href="https://www.linkedin.com/in/luisspires/">Luis Pires, <a href="https://www.linkedin.com/in/eduardo-savino-gomes-77833a10/">Eduardo Savino Gomes, <a href="https://www.linkedin.com/in/remuniz/">Renata Muniz do Nascimento, <a href="https://www.linkedin.com/in/victorbarq/">Victor Bruno Alexander Rosetti de Quiroz
 
 ## 🍀 Descrição
 <img width="784" height="473" alt="image (2)" src="https://github.com/user-attachments/assets/7cfd4ab2-6465-41f4-8a37-76090bc30b1b" />
