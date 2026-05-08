@@ -14,6 +14,7 @@
 ## 👨🏻‍🏫 Professores Orientadores: <a href="https://www.linkedin.com/in/adriano-valente-534576135/">Adriano Felix Valente, <a href="https://www.linkedin.com/in/dolemes/">David de Oliveira Lemes, <a href="https://www.linkedin.com/in/eduardo-savino-gomes-77833a10/">Eduardo Savino Gomes, <a href="https://www.linkedin.com/in/remuniz/">Renata Muniz do Nascimento, <a href="https://www.linkedin.com/in/victorbarq/">Victor Bruno Alexander Rosetti de Quiroz
 
 ## 🍀 Descrição
+<img width="784" height="1168" alt="image" src="https://github.com/user-attachments/assets/c979daaa-021e-459a-b900-ba3a56c77657" />
 
   Nosso projeto é um jogo narrativo de escolhas ambientado em um futuro distópico, onde a Terra está à beira do colapso e os últimos humanos vivem em túneis subterrâneos. A história acompanha uma criança que encontra uma pequena mudinha verde crescendo em meio à escassez, despertando nela o desejo de cuidar e preservar aquela forma de vida. A partir desse encontro, o jogo constrói uma experiência emocional baseada na relação entre sobrevivência humana e preservação da natureza, colocando o jogador diante de decisões simples, porém carregadas de significado.
 
