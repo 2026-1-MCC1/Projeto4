@@ -25,7 +25,7 @@ O jogo funciona por meio de ciclos de dias, em que o jogador deve gerenciar recu
 
 |-->documentos
 
- |-->Entrega 0
+ |-->Entrega 1
    
     |-Algoritmos e Lógica da Programação
     
