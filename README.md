@@ -85,7 +85,7 @@ src : Pasta que contém o código fonte.
 ## 🛠  Instalação
 Windows:
 
-Não há instalação! Apenas possível! Encontre WYLYR.exe na pasta apresentada e execute-o como qualquer outro programa.
+Para instalar, vá até a pasta do executável e extraia os arquivos do jogo. Após a extração, localize o arquivo Crescentia.exe na pasta extraída e execute-o como qualquer outro programa..
 
 Coloque código do prompt de comnando se for necessário
 
