@@ -6,9 +6,9 @@
 <a href= "https://www.fecap.br/"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhZPrRa89Kma0ZZogxm0pi-tCn_TLKeHGVxywp-LXAFGR3B1DPouAJYHgKZGV0XTEf4AE&usqp=CAU" alt="FECAP - Fundação de Comércio Álvares Penteado" border="0"></a>
 </p>
 
-# 🪴 Nome do Projeto: Crescentia
+# 🪴 Crescentia
 
-## 👥👥 Nome do Grupo: Crescentia 
+## 👥👥 Crescentia 
 
 ## 🧑‍🎓 Integrantes: <a href="https://github.com/Anorhc">Gustavo Cordeiro</a>, <a href="https://github.com/lupitaMendoza">Cintya Mendoza</a>, <a href="https://github.com/Rafael1285">Rafael Della</a>, <a href="https://github.com/noguchi2512">Felipe Noguchi</a>
 ## 👨🏻‍🏫 Professores Orientadores: <a href="https://www.linkedin.com/in/adriano-valente-534576135/">Adriano Felix Valente, <a href="https://www.linkedin.com/in/luisspires/">Luis Pires, <a href="https://www.linkedin.com/in/eduardo-savino-gomes-77833a10/">Eduardo Savino Gomes, <a href="https://www.linkedin.com/in/remuniz/">Renata Muniz do Nascimento, <a href="https://www.linkedin.com/in/victorbarq/">Victor Bruno Alexander Rosetti de Quiroz
@@ -68,24 +68,11 @@ O jogo funciona por meio de ciclos de dias, em que o jogador deve gerenciar recu
  
 |readme.md
 
-A pasta raiz contém dois arquivos que devem ser alterados:
-
-README.MD : Arquivo que serve como guia e explicação geral sobre seu projeto. O mesmo que você está lendo agora.
-
-Há também 4 pastas que seguem da seguinte forma:
-
-documentos : Toda a documentação estará nesta pasta.
-
-possíveis : Binários e questionáveis ​​do projeto devem estar nesta pasta.
-
-imagens : Imagens do sistema
-
-src : Pasta que contém o código fonte.
 
 ## 🛠  Instalação
 Windows:
 
-Não há instalação! Apenas possível! Encontre WYLYR.exe na pasta apresentada e execute-o como qualquer outro programa.
+Para instalar, vá até a pasta do executável e extraia os arquivos do jogo. Após a extração, localize o arquivo Crescentia.exe na pasta extraída e execute-o como qualquer outro programa.
 
 Coloque código do prompt de comnando se for necessário
 
